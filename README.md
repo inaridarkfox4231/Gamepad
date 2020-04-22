@@ -1,2 +1,3 @@
 # Gamepad
-gamepadで動かしたい。
+gamepadで動かしたい。  
+こちらでテストできます→https://inaridarkfox4231.github.io/Gamepad/
