@@ -1,0 +1,2 @@
+# Gamepad
+gamepadで動かしたい。
