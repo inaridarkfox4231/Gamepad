@@ -67,7 +67,7 @@ function buttonAction(data){
   0: 左スティックのx
   1: 左スティックのy
   2: 右スティックのx
-  3: 左スティックのy
+  3: 右スティックのy
 */
 
 function axesAction(data){
